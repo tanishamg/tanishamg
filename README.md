@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tanishamg
+- 👀 I’m interested in Data Analytics, Business Analytics and entrepreneurship
+- 🌱 I’m currently learning Artificial Intelligence and Data Science
+- 💞️ I’m looking to collaborate on Data Science projects
+- 📫 How to reach me tanishaamg@gmail.com or www.linkedin.com/in/tanishamg
